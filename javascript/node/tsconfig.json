@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": false,
+    "declaration": true,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "outDir": "built/"
+  },
+  "exclude": [
+    "typings/global",
+    "selenium-webdriver"
+  ]
+}
